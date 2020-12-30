@@ -1,4 +1,0 @@
-﻿  GiftView.cpp
-d:\图形学\实验报告\gift\gift\giftview.cpp(186): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-d:\图形学\实验报告\gift\gift\giftview.cpp(187): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-  Gift.vcxproj -> D:\图形学\实验报告\Gift\Debug\Gift.exe
